@@ -1,0 +1,35 @@
+.gambar {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+.selamat {
+    text-align: center;
+    margin-top: 1%;
+    transform: translateY(-50%);
+}
+
+h4 {
+    padding: 10px 15px;
+    font-size: 15px;
+    margin: 0;
+    background-color: rgb(146, 27, 27);
+    border-radius: 10px;
+    position: fixed;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+
+a {
+    text-decoration: none;
+    color: white;
+}

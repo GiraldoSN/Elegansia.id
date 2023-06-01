@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.text-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+}
+
+h6 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+  
+
+
+/* footer */
+footer {
+    text-align: center;
+    background-color: rgb(229, 230, 208);
+    color: black;
+    font-size: 15px;
+    padding: 15px 0;
+}
